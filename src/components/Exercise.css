@@ -1,0 +1,7 @@
+.exercise {
+	width: 20em;
+	height: 16em;
+	background-color: #BFE5ED;
+	display: grid;
+	place-items: center;
+}
