@@ -8,4 +8,14 @@
 .exercise button {
 	font-size: 140%;
 	box-shadow: 0.5em 0.5em 0.3em 0px #59BBF7;
+	position: relative;
+}
+.exercise .sparkle {
+	/* Alternativ lösning: använd translate */
+	position: absolute;
+	left: 0em;
+	top: 0em;
+	background-color: transparent;
+	width: 0.5em;
+	height: 0.5em;
 }
